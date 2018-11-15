@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/InsertTableSample/Form1.cs) (VB: [Form1.vb](./VB/InsertTableSample/Form1.vb))
+* [Program.cs](./CS/InsertTableSample/Program.cs) (VB: [Program.vb](./VB/InsertTableSample/Program.vb))
+<!-- default file list end -->
 # How to create "Table of Figures" and "Table of Tables" programmatically
 
 
